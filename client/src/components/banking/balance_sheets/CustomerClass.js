@@ -1,0 +1,46 @@
+class Customer {
+  constructor(deposits, cash, customerId, bankId) {
+    this.deposits = deposits;
+    this.cash = cash;
+    this.customerId = customerId;
+    this.bankId = bankId;
+  }
+  _minusCash(num) {
+
+  }
+  _minusDeposit(num) {
+
+  }
+  spend(num) {
+    this.cash -= num;
+  }
+  deposit(num) {
+    console.log({classNum: num})
+    this.cash = this.cash - num
+    this.deposits += num;
+  }
+  withdraw(num) {
+    this.cash += num;
+    this.deposits -= num;
+  }
+  makeTransfer(num) {
+    this.deposits -= num;
+  }
+  receiveTransfer(num) {
+    this.deposits += num;
+  }
+  receiveLoan(num) {
+    this.deposits = this.deposits + num;
+  }
+  repayLoan(num, paymentType) {
+    if (paymentType === "CARD") {
+      this.deposits = this.deposits - num  
+    }
+    if (paymentType === "CASH") {
+      this.cash = this.cash - num
+    }
+    
+  }
+}
+
+export default Customer;

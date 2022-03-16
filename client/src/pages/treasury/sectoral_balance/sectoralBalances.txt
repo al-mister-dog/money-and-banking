@@ -1,0 +1,19 @@
+Then you can convert this into the following sectoral balances accounting relations, 
+which allow us to understand the influence of fiscal policy over private sector indebtedness. Hence, equation (4) can be rearranged to get the accounting identity for the three sectoral balances – private domestic, government budget and external:
+(S-I)=(G-T)+(X-M)(S-I)=(G-T)+(X-M) 
+or
+(S-I)+(M-X)+(T-G)=0 (S-I)+(M-X)+(T-G)=0 
+or
+
+(S-I)+(T-G)=(X-M) (S-I)+(T-G)=(X-M) 
+
+
+which implies that deficits at home (private and government) result in current account or trade deficits, and thus borrowing from abroad.
+
+The sectoral balances equation says that total private savings (S) minus private investment (I) has to equal the public deficit (spending, G minus taxes, T T) plus net exports (exports (X X) minus imports (M M)), where net exports represent the net savings of non-residents.
+
+Another way of saying this is that total private savings (S) is equal to private investment (I) plus the public deficit spending, (G) minus taxes, T T) plus net exports (exports (X X) minus imports (M M)), where net exports represent the net savings of non-residents.
+
+All these relationships (equations) hold as a matter of accounting and not matters of opinion.
+
+Thus, when an external deficit (X-M<0 X-M<0 ) and public surplus (G-T<0 G-T<0 ) coincide, there must be a private deficit. While private spending can persist for a time under these conditions using the net savings of the external sector, the private sector becomes increasingly indebted in the process.
