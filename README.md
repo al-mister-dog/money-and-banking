@@ -7,6 +7,8 @@ Part of an ongoing project to teach economics and the inner workings of governme
 This app uses React, Redux, D3 libraries, Node, Express and Sequelize...
 
 ## Long Term Project
+### Site
+The site will eventually be migrated to Next JS so articles contained in the site can be shared through links. The banking course will be expanded to cover international money markets, mortgage lending and federal reserve spending as well as government spending.
 ### Learning
 The learning aspect uses an interactive UI to help teach complex concepts in an accesible way. The core concepts are indebted to the following economists and writers. Perry Mehrling, Adam Tooze, Hyman Minsky, Allyn Young. I hope to incorporate the ideas of a whole range of economists in the future, including banking and currency schools, MMT, Walter Badgehot, Karl Marx, JM Keynes, Michael Hudson, Ludwig Von Mises, Milton Friedman and Murray Rothbard.
 ### Game
